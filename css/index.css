@@ -1,0 +1,12 @@
+.BMap_cpyCtrl {
+	display: none;
+}
+
+.anchorBL {
+	display: none;
+}
+
+#map {
+	width: 600px;
+	height: 400px;
+}
